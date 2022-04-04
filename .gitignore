@@ -127,3 +127,33 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+classification_vector_spaces/week4/assignment/data/en_embeddings.p
+classification_vector_spaces/week4/assignment/data/en-fr.test.txt
+classification_vector_spaces/week4/assignment/data/en-fr.train.txt
+classification_vector_spaces/week4/assignment/data/fr_embeddings.p
+classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords.zip
+classification_vector_spaces/week4/assignment/tmp2/corpora/twitter_samples.zip
+classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords/arabic
+classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords/danish
+classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords/azerbaijani
+classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords/dutch
+classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords/english
+classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords/finnish
+classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords/german
+classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords/french
+classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords/greek
+classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords/hungarian
+classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords/indonesian
+classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords/italian
+classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords/kazakh
+classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords/norwegian
+classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords/nepali
+classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords/portuguese
+.gitignore
+classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords/turkish
+classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords/swedish
+classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords/tajik
+classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords/spanish
+classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords/slovene
+classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords/russian
+classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords/romanian
