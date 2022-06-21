@@ -158,3 +158,9 @@ classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords/slovene
 classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords/russian
 classification_vector_spaces/week4/assignment/tmp2/corpora/stopwords/romanian
 .vscode/settings.json
+
+## DAta
+*./data*
+sequence_models/week4/assignment/data
+sequence_models/week4/assignment/nltk_data
+sequence_models/week4/assignment/support_files
